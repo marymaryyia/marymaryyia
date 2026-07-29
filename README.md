@@ -160,7 +160,7 @@ maria.say_hi()
 
 <div align="center">
 
-<img src="./assets/stepik-certificate.pdf" width="250" alt="Stepik Certificate"/>
+<img src="./assets/stepik-frontend.png" width="250" alt="Stepik Certificate"/>
 <img src="./assets/freecodecamp.jpg" width="250" alt="freeCodeCamp Certificate"/>
 <img src="./assets/mimo-css.jpg" width="250" alt="Mimo CSS Certificate"/>
 <img src="./assets/mimo-html.jpg" width="250" alt="Mimo HTML Certificate"/>
