@@ -79,8 +79,8 @@ I enjoy working across both **frontend and backend development**, with a particu
 <img src="https://skillicons.dev/icons?i=docker,linux,postgres,redis" />
 
 </div>
-<details>
-<summary><h2>🏆 Certificates & Achievements</h2></summary>
+
+<h2>🏆 Certificates & Achievements</h2>
 
 <br/>
 
@@ -94,4 +94,4 @@ I enjoy working across both **frontend and backend development**, with a particu
 </div>
 </div>
 
-</details>
+
