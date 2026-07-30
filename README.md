@@ -20,16 +20,16 @@
 
   <br/>
   <br/>
-
+<p align="center">
   <img
-    src="https://komarev.com/ghpvc/?username=marymaryyia&label=PROFILE%20VIEWS&color=F5A6D7&labelColor=1C1C1C&style=for-the-badge"
+    src="https://komarev.com/ghpvc/?username=marymaryyia&label=PROFILE+VIEWS&color=F5A6D7&style=for-the-badge"
     alt="Profile Views"
   />
-
   <img
-    src="https://img.shields.io/github/followers/marymaryyia?label=FOLLOWERS&color=F5A6D7&labelColor=1C1C1C&style=for-the-badge"
+    src="https://img.shields.io/github/followers/marymaryyia?label=FOLLOWERS&color=F5A6D7&style=for-the-badge"
     alt="GitHub Followers"
   />
+</p>
 
 </div>
 
