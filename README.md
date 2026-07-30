@@ -10,21 +10,29 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/marymaryyia">
-    <img src="https://img.shields.io/badge/GitHub-marymaryyia-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=38&duration=150&pause=1000&color=F5A6D7&center=true&vCenter=true&repeat=false&width=600&height=70&lines=Full+Stack+Developer"
+      alt="Full Stack Developer"
+    />
   </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+
+  <br/>
+  <br/>
+
+  <img
+    src="https://komarev.com/ghpvc/?username=marrymaryyia&label=PROFILE%20VIEWS&color=F5A6D7&labelColor=1C1C1C&style=for-the-badge"
+    alt="Profile Views"
+  />
+
+  <img
+    src="https://img.shields.io/github/followers/marrymaryyia?label=FOLLOWERS&color=F5A6D7&labelColor=1C1C1C&style=for-the-badge"
+    alt="GitHub Followers"
+  />
+
 </div>
 
-<br/>
-
-<div align="center">
-  <a href="#english">
-    <img src="https://img.shields.io/badge/README-ENG-blue?color=fab387&labelColor=1C2325&style=for-the-badge" alt="English README"/>
-  </a>
-</div>
 
 ---
 
@@ -38,56 +46,53 @@ I love building projects from the ground up — from designing user interfaces a
 
 I'm always curious about new technologies and enjoy learning by building real projects, solving problems, and experimenting with new ideas.
 
-### 💻 What I Work With
-
-* 🐍 **Python**
-* 🗄️ **SQL**
-* ⚡ **JavaScript**
-* 🔷 **TypeScript**
-* ⚛️ **React**
-* 📱 **React Native**
-* 🌐 **HTML**
-* 🎨 **CSS**
-
 I enjoy working across both **frontend and backend development**, with a particular interest in creating modern interfaces and building applications that are both functional and enjoyable to use.
 
 ---
+## 🛠 Tech Stack
 
-## 🚀 My Tech Stack
+![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
-<div align="center">
 
-### Languages
-
-<img src="https://skillicons.dev/icons?i=python,js,ts,html,css" />
-
-### Frontend & Mobile
-
-<img src="https://skillicons.dev/icons?i=react,reactnative" />
-
-### Backend & Database
-
-<img src="https://skillicons.dev/icons?i=python,flask,sqlite,mysql" />
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-
-</div>
-
----
-
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=marymaryyia&show_icons=true&theme=dark&hide_border=true&count_private=true" height="180"/>
+<img height="180em" src="https://github-readme-stats-mari-72b5.vercel.app/api?username=marymaryyia&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marymaryyia&layout=compact&theme=dark&hide_border=true" height="180"/>
+<img height="180em" src="https://github-readme-stats-mari-72b5.vercel.app/api/top-langs/?username=marymaryyia&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=marymaryyia&theme=tokyonight&hide_border=true"/>
 
 </div>
 
----
+## 🌱 Currently Learning
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=docker,linux,postgres,redis" />
+
+</div>
 
 ## 🐍 Contribution Snake
 
@@ -98,22 +103,6 @@ I enjoy working across both **frontend and backend development**, with a particu
 </div>
 
 ---
-## 🛠 Technologies I Use  
-![](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![](https://img.shields.io/badge/Node.js-86BE00?style=for-the-badge&logo=node.js&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
-![](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/Markdown-F71A4A?style=for-the-badge&logo=markdown&logoColor=white)
-![](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![](https://img.shields.io/badge/MySQL-F79F17?style=for-the-badge&logo=mysql&logoColor=white)
-![](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## ✨ A Little More About Me
 
