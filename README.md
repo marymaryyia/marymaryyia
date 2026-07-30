@@ -13,7 +13,7 @@
 
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=38&duration=150&pause=1000&color=F5A6D7&center=true&vCenter=true&repeat=false&width=600&height=70&lines=Full+Stack+Developer"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=38&duration=2000&pause=3000&color=F5A6D7&center=true&vCenter=true&repeat=false&width=600&height=70&lines=Full+Stack+Developer"
       alt="Full Stack Developer"
     />
   </a>
