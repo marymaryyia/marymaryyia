@@ -48,7 +48,6 @@ I'm always curious about new technologies and enjoy learning by building real pr
 
 I enjoy working across both **frontend and backend development**, with a particular interest in creating modern interfaces and building applications that are both functional and enjoyable to use.
 
----
 ## 🛠 Tech Stack
 
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
