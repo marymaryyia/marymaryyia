@@ -30,7 +30,7 @@
 
 ## 👻 About Me
 
-Hi! I'm **Maria Kashavanidze**, also known online as **@marrymaryyia**.
+Hi! I'm **Maria Kashavanidze**, also known online as **@marymaryyia**.
 
 I'm a passionate **Full-Stack Developer** who enjoys turning ideas into interactive, useful, and visually engaging digital experiences.
 
@@ -81,9 +81,9 @@ I enjoy working across both **frontend and backend development**, with a particu
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=marrymaryyia&show_icons=true&theme=dark&hide_border=true&count_private=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=marymaryyia&show_icons=true&theme=dark&hide_border=true&count_private=true" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marrymaryyia&layout=compact&theme=dark&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marymaryyia&layout=compact&theme=dark&hide_border=true" height="180"/>
 
 </div>
 
@@ -93,7 +93,7 @@ I enjoy working across both **frontend and backend development**, with a particu
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/marrymaryyia/marrymaryyia/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/marymaryyia/marymaryyia/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 
 </div>
 
