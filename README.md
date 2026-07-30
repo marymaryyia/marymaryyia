@@ -87,9 +87,9 @@ I enjoy working across both **frontend and backend development**, with a particu
 <div align="center">
 
 <img src="./assets/stepik-frontend.png" width="250" alt="Stepik Certificate"/>
-<img src="./assets/freecodecamp.jpg" width="250" alt="freeCodeCamp Certificate"/>
 <img src="./assets/mimo-css.jpg" width="250" alt="Mimo CSS Certificate"/>
 <img src="./assets/mimo-html.jpg" width="250" alt="Mimo HTML Certificate"/>
+<img src="./assets/freecodecamp.jpg" width="250" alt="freeCodeCamp Certificate"/>
 
 </div>
 </div>
