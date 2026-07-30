@@ -72,19 +72,6 @@ I enjoy working across both **frontend and backend development**, with a particu
 ![](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats-mari-72b5.vercel.app/api?username=marymaryyia&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats-mari-72b5.vercel.app/api/top-langs/?username=marymaryyia&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=marymaryyia&theme=tokyonight&hide_border=true"/>
-
-</div>
 
 ## 🌱 Currently Learning
 
@@ -93,55 +80,6 @@ I enjoy working across both **frontend and backend development**, with a particu
 <img src="https://skillicons.dev/icons?i=docker,linux,postgres,redis" />
 
 </div>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/marymaryyia/marymaryyia/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-
-</div>
-
----
-
-## ✨ A Little More About Me
-
-```python
-class Maria:
-    def __init__(self):
-        self.name = "Maria Kashavanidze"
-        self.username = "marrymaryyia"
-        self.role = "Full-Stack Developer"
-        self.languages = [
-            "Python",
-            "SQL",
-            "JavaScript",
-            "TypeScript",
-            "HTML",
-            "CSS"
-        ]
-        self.frameworks = [
-            "React",
-            "React Native"
-        ]
-        self.interests = [
-            "Web Development",
-            "Mobile Development",
-            "Artificial Intelligence",
-            "Machine Learning",
-            "UI/UX",
-            "Creative Technology"
-        ]
-
-    def say_hi(self):
-        print("Thanks for stopping by! Let's build something amazing 🚀")
-
-
-maria = Maria()
-maria.say_hi()
-```
-
----
 <details>
 <summary><h2>🏆 Certificates & Achievements</h2></summary>
 
