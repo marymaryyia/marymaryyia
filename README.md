@@ -85,7 +85,7 @@ I enjoy working across both **frontend and backend development**, with a particu
 <br/>
 
 <div align="center">
-<img src=".assets/tbc-ai-certificate" width="250" alt="TBC AI Course"/>
+<img src=".assets/tbc-ai-certificate.jpg" width="250" alt="TBC AI Course"/>
 <img src="./assets/stepik-frontend.png" width="250" alt="Stepik Certificate"/>
 <img src="./assets/mimo-css.jpg" width="250" alt="Mimo CSS Certificate"/>
 <img src="./assets/mimo-html.jpg" width="250" alt="Mimo HTML Certificate"/>
